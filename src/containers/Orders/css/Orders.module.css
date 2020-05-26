@@ -1,0 +1,66 @@
+.Token {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  font-weight: 700;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin: 20% auto;
+  width: 80%;
+  text-align: center;
+  border: 4px solid #a26509;
+  padding: 20px;
+  border-radius: 5%;
+  -webkit-box-shadow: 2px 5px 10px #000;
+          box-shadow: 2px 5px 10px #000;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  background-color: #ccceb6;
+  color: #000;
+  text-decoration: none;
+}
+
+.Token:hover {
+  background-color: #c8cc9f;
+  -webkit-box-shadow: 2px 5px 15px #000;
+          box-shadow: 2px 5px 15px #000;
+}
+
+@media (min-width: 600px) {
+  .Token {
+    width: 500px;
+  }
+}
+
+.Arrow {
+  color: #a26509;
+  font-size: 50px;
+  -webkit-box-shadow: 2px 4px 8px #000;
+          box-shadow: 2px 4px 8px #000;
+  border-radius: 50%;
+  margin: 0;
+  border: 1px solid #000;
+}
+
+.BoxArrow {
+  position: absolute;
+  top: 30%;
+  right: 50%;
+  -webkit-transform: translateX(50%);
+          transform: translateX(50%);
+  z-index: -2;
+}
+
+@media (min-width: 600px) {
+  .BoxArrow {
+    top: 10%;
+    right: 5%;
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+}
+/*# sourceMappingURL=Orders.module.css.map */

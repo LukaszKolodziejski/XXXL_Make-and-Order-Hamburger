@@ -1,0 +1,37 @@
+.NavigationItem {
+  margin: 10px 0;
+  box-sizing: border-box;
+  width: 100%;
+  display: block;
+  @media (min-width: 500px) {
+    margin: 0;
+    width: auto;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+  a {
+    width: 100%;
+    color: #8f5c2c;
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+    @media (min-width: 500px) {
+      width: auto;
+      color: white;
+      padding: 16px 10px;
+      border-bottom: 4px solid transparent;
+    }
+    &:hover,
+    &:active,
+    &.active {
+      color: #40a4c8;
+      cursor: pointer;
+      @media (min-width: 500px) {
+        color: white;
+        background-color: #8f5c2c;
+        border-bottom: 4px solid #40a4c8;
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,gBAAgB,CAAC;EACf,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,GAAG;CAIX;;AAHC,MAAM,EAAE,SAAS,EAAE,KAAK;EAJ1B,AAAA,gBAAgB,CAAC;IAKb,KAAK,EAAE,KAAK;GAEf;;;AAED,AAAA,OAAO,CAAC;EACN,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACb",
+    "sources": [
+        "../scss/CheckoutSummary.module.scss"
+    ],
+    "names": [],
+    "file": "CheckoutSummary.module.css"
+}

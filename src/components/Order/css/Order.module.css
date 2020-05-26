@@ -1,0 +1,28 @@
+.Order {
+  width: 80%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border: 1px solid #eee;
+  -webkit-box-shadow: 0 2px 3px #ccc;
+          box-shadow: 0 2px 3px #ccc;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.Ingredient {
+  display: inline-block;
+  margin: 0 8px;
+  border: 1px solid #ccc;
+  padding: 5px;
+  background-color: rgba(231, 247, 8, 0.089);
+  border-radius: 10px;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.Ingredient:hover {
+  -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.486);
+          box-shadow: 0 2px 3px rgba(0, 0, 0, 0.486);
+}
+/*# sourceMappingURL=Order.module.css.map */

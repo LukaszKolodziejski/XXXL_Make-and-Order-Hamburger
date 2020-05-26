@@ -1,0 +1,18 @@
+.Logo {
+  background-color: #fff;
+  height: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  border-radius: 5px;
+  display: flex;
+  align-content: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  @media (min-width: 500px) {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  img {
+    height: 100%;
+  }
+}
