@@ -1,5 +1,6 @@
 I connected a lot of technologies in one place, In this Huge Project:
 
+```js
 JavaScript
 React.js
 Redux
@@ -19,3 +20,4 @@ ES6
 CSS
 npm
 Babel
+```
