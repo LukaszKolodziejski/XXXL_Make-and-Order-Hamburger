@@ -29,56 +29,58 @@ Webpack                         Firebase                    REST API
 ---
 ---
 
-> ## 2. Add ingredients:
+> ## 2. Add ingredients and modified new price:
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/2-add-ingredients.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
 ---
 ---
 
-> ## 3. Order Now:
+> ## 3. "Order Now" and show first purchase summary:
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/3-order-now.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
 ---
 ---
 
-> ## 4. Purchase summary and form:
+> ## 4. Simple way from Purchase summary to Form:
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/4-purchase-summary.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
 ---
 ---
 
-> ## 5. Database in Firebase:
+> ## 5. Connected "order" and "form" to database in Firebase:
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/5-database.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
 ---
 ---
 
-> ## 6. Orders ( not authenticate ):
+> ## 6. Not authenticate === Not Orders (Animation with GSAP):
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/6-orders.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
 ---
 ---
 
-> ## 7. Auth || Redux-Thunk vs Redux-Saga:
+> ## 7. Welcome Auth with GSAP 
+> ### Redux is almost everywhere but time to || Redux-Thunk vs Redux-Saga || 
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/7-auth.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
 ---
 ---
 
-> ## 8. Auth (Sign In) (e.g. {Login: "www@ww.ww", Password: "wwwwww" }):
+> ## 8. Auth (Sign In) (e.g. {Login: "www@ww.ww", Password: "wwwwww" }),
+> ### ...to get Token: 
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/8-auth-sign-in.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
 ---
 ---
 
-> ## 9. Orders ( authenticate ):
+> ## 9. Show Orders ( Must be Authenticated ):
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/9-orders-auth.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
@@ -106,7 +108,7 @@ Webpack                         Firebase                    REST API
 ---
 ---
 
-> ## 13. SideDrawer in Mobile:
+> ## 13. GSAP & SideDrawer in the Mobile:
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/13-sidedrawer-mobile.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
