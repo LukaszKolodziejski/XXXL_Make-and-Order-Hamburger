@@ -68,16 +68,8 @@ Webpack                         Firebase                    REST API
 > ### 10. Refresh page with Localstorage ( Token -> 1h )
 >     [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/10-refresh.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
----
----
----
-
 > ### 11. Logout and redirect to /orders
 >     [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/11-logout.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
-
----
----
----
 
 > ### 12. All of steps work the same in all of screen size.
 >     [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/12-screen-size.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
