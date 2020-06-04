@@ -20,47 +20,47 @@ Webpack                         Firebase                    REST API
 > ## How it work ? (14 Steps)
 
 > ### 1. Start
->    [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/1-start.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
+[![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/1-start.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 ---
 ---
 ---
 > ### 2. Add ingredients
->    [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/2-add-ingredients.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
+[![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/2-add-ingredients.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 ---
 ---
 ---
 > ### 3. Order Now
->    [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/3-order-now.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
+[![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/3-order-now.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 ---
 ---
 ---
 > ### 4. Purchase summary and form
->    [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/4-purchase-summary.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
+[![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/4-purchase-summary.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 ---
 ---
 ---
 > ### 5. Database in Firebase
->    [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/5-database.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
+[![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/5-database.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 ---
 ---
 ---
 > ### 6. Orders ( not authenticate )
->    [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/6-orders.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
+[![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/6-orders.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 ---
 ---
 ---
 > ### 7. Auth || Redux-Thunk vs Redux-Saga
->    [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/7-auth.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
+[![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/7-auth.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 ---
 ---
 ---
 > ### 8. Auth (Sign In) (e.g. {Login: "www@ww.ww", Password: "wwwwww" })
->    [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/8-auth-sign-in.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
+[![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/8-auth-sign-in.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 ---
 ---
 ---
 > ### 9. Orders ( authenticate )
->    [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/9-orders-auth.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
+[![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/9-orders-auth.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 ---
 ---
 ---
