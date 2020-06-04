@@ -17,30 +17,30 @@ Webpack                         Firebase                    REST API
 
 ```
 
-> ## How it work ? (14 Steps)
+> # How it work ? (14 Steps)
 
-> ### 1. Start
+> ## 1. Start
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/1-start.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
 ---
 ---
 
-> ### 2. Add ingredients
+> ## 2. Add ingredients
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/2-add-ingredients.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
 ---
 ---
 
-> ### 3. Order Now
+> ## 3. Order Now
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/3-order-now.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
 ---
 ---
 
-> ### 4. Purchase summary and form
+> ## 4. Purchase summary and form
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/4-purchase-summary.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
