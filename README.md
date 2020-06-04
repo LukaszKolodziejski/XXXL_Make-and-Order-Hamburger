@@ -22,7 +22,9 @@ Webpack                         Firebase                    REST API
 > ### 1. Start
 
 >    [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/1-start.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
-
+---
+---
+---
 > 2. Add ingredients
 >    [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/2-add-ingredients.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
