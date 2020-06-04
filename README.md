@@ -65,7 +65,7 @@ Webpack                         Firebase                    REST API
 ---
 ---
 
-> ### 10. Refresh page with Localstorage ( Token -> 1h )
+> ### 10. Refresh page with Localstorage  "Token -> 1h" 
 >     [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/10-refresh.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 > ### 11. Logout and redirect to /orders
