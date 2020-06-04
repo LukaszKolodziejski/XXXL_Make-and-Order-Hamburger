@@ -73,6 +73,7 @@ Webpack                         Firebase                    REST API
 ---
 
 > ## 8. Auth (Sign In) (e.g. {Login: "www@ww.ww", Password: "wwwwww" }),
+> ### Or create new account (Sign Up)
 > ### ...to get Token: 
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/8-auth-sign-in.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
