@@ -54,7 +54,7 @@ Webpack                         Firebase                    REST API
 ---
 ---
 
-> ## 6. Not authenticate === Not Orders (Animation with GSAP):
+> ## 6. No authentication === No Orders (Animation with GSAP):
 [![Demo CountPages alpha](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger/blob/master/src/assets/videos/6-orders.gif)](https://github.com/LukaszKolodziejski/XXXL_Make-and-Order-Hamburger)
 
 ---
