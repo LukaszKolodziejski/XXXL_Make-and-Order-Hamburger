@@ -9,7 +9,7 @@ Redux-Thunk                     Redux-Saga                  React Router
 React Hooks                     React with GSAP             Axios
 Authentication with Token       SASS                        SCSS
 CSS Modules                     CSS3                        HTML5
-Babel                           ES6
+Babel                           ES6                         localStorage
 Webpack                         Firebase                    REST API
 
 ```
