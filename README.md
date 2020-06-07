@@ -7,8 +7,8 @@
 JavaScript                      React.js                    Redux
 Redux-Thunk                     Redux-Saga                  React Router
 React Hooks                     React with GSAP             Axios
-Authentication with Token       SASS / SCSS                 function* generator / yield
-CSS Modules                     CSS3                        localStorage
+Authentication with Token       SASS / SCSS                 localStorage
+CSS Modules                     CSS3                        function* generator / yield
 Babel                           ES6                         REST API 
 Webpack                         HTML5                       Firebase                    
 
