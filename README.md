@@ -2,7 +2,7 @@
 > #### I connected here a lot of technologies in one place:
 > #### ... to show what I can create,
 > #### in over #3000 lines of written code.
-
+ 
 ```js
 JavaScript                      React.js                    Redux
 Redux-Thunk                     Redux-Saga                  React Router
