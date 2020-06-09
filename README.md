@@ -1,6 +1,6 @@
 > ## This is my the Largest and the Best Project ( from React to Redux-Saga... ) // 02.2020 - 05.2020
 > #### I connected here a lot of technologies in one place:
-> #### ... to show what I can create,
+> #### ... to show what I can create, 
 > #### in over #3000 lines of written code. 
  
 ```js
